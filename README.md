@@ -1,4 +1,4 @@
-# 🍴 Zomato Bengaluru Restaurant Data Analysis
+# 🍔🍴 Zomato Bengaluru Restaurant Data Analysis
 
 <img src=https://the420.in/wp-content/uploads/2025/04/Zomato-Bans-AI.webp>
 
@@ -50,12 +50,12 @@ Using the Zomato Bengaluru dataset, this project explores customer preferences, 
 
 ## 🔎 Analysis Summary
 
-### 1️⃣ Data Cleaning and Preprocessing
+### 1️⃣ Data Cleaning and Preprocessing 🧹
 - **Handling Missing Values** → Removed rows with missing critical data
 - **Column Cleaning** → Handling / , and blank spaces from the values in the columns
 - **Aggregating the values** → Converted the values to "Others" wherever the count was less than 1000 
 
-### 2️⃣ Exploratory Data Analysis (EDA) with Key Insights 
+### 2️⃣ Exploratory Data Analysis (EDA) with Key Insights 👾
 - **Number of Restaurants by Location** - High concentration in popular areas – The top 5 locations (e.g., Koramangala, Indiranagar, etc.) have a significantly higher restaurant density, showing these are prime dining hubs with strong customer footfall and competition.
 - **Various Types of Restaurant** - Casual Dining dominates – It is the most common restaurant type by a wide margin, with around 7,400 outlets, showing strong customer preference for sit-down dining experiences.
 - **The Top rated restaurants from each Area** - Premium and specialty brands perform strongly – Many highest-rated restaurants are well-known for specific cuisines (e.g., barbeque, desserts, or coffee), indicating that specialization helps secure top ratings.
@@ -67,6 +67,16 @@ Using the Zomato Bengaluru dataset, this project explores customer preferences, 
 - **Do restaurants with table booking have better ratings?** - Offering table booking might improve customer satisfaction and ratings.
 Consistency in ratings suggests that booking restaurants may deliver more predictable experiences.
 - **Which restaurant has the best rating per rupee spent** - Low cost with high ratings is a competitive edge in the food industry.
+
+---
+
+## 💡 Future Enhancements
+
+🔰Build a predictive model to forecast restaurant success
+
+⭐Perform sentiment analysis on customer reviews
+
+📊Develop a dashboard in Power BI or Tableau for dynamic insights
 
 ---
 
